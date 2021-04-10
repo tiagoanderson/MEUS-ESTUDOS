@@ -1,2 +1,2 @@
 # MEUS-ESTUDOS
- Base de conhecimento diversos sobre linguagem de programações
+ Base de conhecimento sobre linguagem de programações e tecnologias
