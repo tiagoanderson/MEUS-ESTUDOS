@@ -1,0 +1,10 @@
+F:\OrientacaoObjeto\Calc_Inss\Calculadora\bin\Debug\Calculadora.exe.config
+F:\OrientacaoObjeto\Calc_Inss\Calculadora\bin\Debug\Calculadora.exe
+F:\OrientacaoObjeto\Calc_Inss\Calculadora\bin\Debug\Calculadora.pdb
+F:\OrientacaoObjeto\Calc_Inss\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+F:\OrientacaoObjeto\Calc_Inss\Calculadora\obj\Debug\Calculadora.F_Principal.resources
+F:\OrientacaoObjeto\Calc_Inss\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+F:\OrientacaoObjeto\Calc_Inss\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+F:\OrientacaoObjeto\Calc_Inss\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+F:\OrientacaoObjeto\Calc_Inss\Calculadora\obj\Debug\Calculadora.exe
+F:\OrientacaoObjeto\Calc_Inss\Calculadora\obj\Debug\Calculadora.pdb
